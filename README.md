@@ -2,7 +2,6 @@
 
 Hi 👋, I am Emilia!
 
-Can you solve my frontend challenge?
 
 ## Challenge
 
